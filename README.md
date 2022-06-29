@@ -1,4 +1,4 @@
-# 90DaysOfDevOps (testing by JP)
+# 90DaysOfDevOps
 
 <p align="center">
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
